@@ -11,7 +11,7 @@
 
 
 **Radiation Mapping**
-- (private) 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Revision on Advanced Intelligent Systems)
+- (private) 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Revision in progress - **Advanced Intelligent Systems**)
 
 **Deep Learning**
 
