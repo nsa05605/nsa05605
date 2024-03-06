@@ -1,18 +1,18 @@
-### Hi there 👋
+## Jihoon's github
 
-<!--
-**nsa05605/nsa05605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Main Project
 
-Here are some ideas to get you started:
+**Visual SLAM**
+- [modified_ORB-SLAM3 with BRISK features (KROS 2023)](https://github.com/nsa05605/modified_ORB_SLAM3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+
+**Visual Place Recognition**
+- [Cross-view image sequence geo-localization using LLM (-ing)](https://github.com/nsa05605/SG-CVGL)
+
+
+**Deep Learning**
+
+
+
 
 ![nsa05605's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsa05605&theme=dark&show_icons=true)
