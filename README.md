@@ -10,6 +10,9 @@
 - [Cross-view image sequence geo-localization using LLM (-ing)](https://github.com/nsa05605/SG-CVGL)
 
 
+**Radiation Mapping**
+- (private) 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Revision on Advanced Intelligent Systems)
+
 **Deep Learning**
 
 
