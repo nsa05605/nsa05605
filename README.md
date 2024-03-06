@@ -11,10 +11,11 @@
 
 
 **Radiation Mapping**
-- (private) 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Revision in progress - **Advanced Intelligent Systems**)
+- 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Revision in progress - **Advanced Intelligent Systems**)  
+    &rightarrow; This is a private repository due to KHNP(Korea Hydro & Nuclear Power Co., Ltd.)'s security policy.
 
 **Deep Learning**
-
+- [Shadow removal for visual place recognition (ICCAS 2023)](https://github.com/nsa05605/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
 
 ### Mini Project
 
