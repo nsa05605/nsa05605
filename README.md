@@ -22,4 +22,4 @@
 - [Visual-LiDAR fusion odometry using EKF](https://github.com/nsa05605/Visual-LiDAR-fusion_EKF-odometry)
 
 
-![nsa05605's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsa05605&theme=dark&show_icons=true)
+![nsa05605's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsa05605&theme=vue_icons=true)
