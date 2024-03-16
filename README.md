@@ -12,7 +12,7 @@ modified_ORB-SLAM3 with BRISK features (**KRoC 2023**)
 
 🏙️ **Visual Place Recognition**  
 Cross-view image sequence geo-localization using LLM (-ing)  
-[code]
+[[code]](https://github.com/nsa05605/SL-CVGL)
 [paper]  
 
 
@@ -31,7 +31,7 @@ Shadow removal for visual place recognition (**ICCAS 2023**)
  
 ⚔️ **Cross-Modal Place Recognition**  
 Comparison of generative models for cross-modal place recognition (**KRoC 2024**)  
-[[code]](https://github.com/nsa05605/Compare_GANs_for_Cross-Modal_Place-Recognition/tree/master)
+[[code]](https://github.com/nsa05605/Compare_GANs_for_Cross-Modal_Place-Recognition)
 [paper]
 
 ### Mini Project  
