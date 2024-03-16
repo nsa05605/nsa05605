@@ -1,25 +1,39 @@
+<div align="left">
+    
 ## Jihoon's github
 
 ### Main Project
 
-**Visual SLAM**
-- [modified_ORB-SLAM3 with BRISK features (KROS 2023)](https://github.com/nsa05605/modified_ORB_SLAM3)
+📷 **Visual SLAM**  
+modified_ORB-SLAM3 with BRISK features (KROS 2023)  
+[[code]](https://github.com/nsa05605/modified_ORB_SLAM3)
+[paper]  
 
 
-**Visual Place Recognition**
-- [Cross-view image sequence geo-localization using LLM (-ing)](https://github.com/nsa05605/SG-CVGL)
+🏙️ **Visual Place Recognition**  
+Cross-view image sequence geo-localization using LLM (-ing)  
+[[code]](https://github.com/nsa05605/SG-CVGL)
+[paper]  
 
 
-**Radiation Mapping**
-- 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Accepted - **Advanced Intelligent Systems**)  
+👷 **Radiation Mapping**  
+3D Radiation Mapping using Gaussian Process Regression with Intensity Projection  
+(Accepted in March 2024 - **Advanced Intelligent Systems**)  
     &rightarrow; This is a private repository due to KHNP(Korea Hydro & Nuclear Power Co., Ltd.)'s security policy.
+[[paper]]  
 
-**Deep Learning**
-- [Shadow removal for visual place recognition (ICCAS 2023)](https://github.com/nsa05605/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
+💻 **Deep Learning**  
+Shadow removal for visual place recognition (ICCAS 2023)  
+[[code]](https://github.com/nsa05605/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10316775?casa_token=NSahX8fBSjkAAAAA:2WPO7YB_IA4VJbGKRudbZuydId-X8gjnF31BuZGep52rfmLumkLv-AmJ8fbPjEDqWdM35S91_30)  
 
-### Mini Project
 
-- [Visual-LiDAR fusion odometry using EKF](https://github.com/nsa05605/Visual-LiDAR-fusion_EKF-odometry)
+### Mini Project  
+🚙 **Localization project**  
+Visual-LiDAR fusion odometry using EKF  
+[[code]](https://github.com/nsa05605/Visual-LiDAR-fusion_EKF-odometry)
 
 
 ![nsa05605's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsa05605&theme=vue_icons=true)
+
+</div>
