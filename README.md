@@ -27,9 +27,9 @@ Cross-view image sequence geo-localization using LLM (-ing)
 Shadow removal for visual place recognition (**ICCAS 2023**)  
 [[code]](https://github.com/nsa05605/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10316775?casa_token=NSahX8fBSjkAAAAA:2WPO7YB_IA4VJbGKRudbZuydId-X8gjnF31BuZGep52rfmLumkLv-AmJ8fbPjEDqWdM35S91_30)  
-
-
-⚔️ **Cross-Modal Place Recognition**
+  
+ 
+⚔️ **Cross-Modal Place Recognition**  
 Comparison of generative models for cross-modal place recognition (**KRoC 2024**)  
 [[code]](https://github.com/nsa05605/Compare_GANs_for_Cross-Modal_Place-Recognition/tree/master)
 [paper]
