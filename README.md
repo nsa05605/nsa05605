@@ -5,7 +5,7 @@
 ### Main Project
 
 📷 **Visual SLAM**  
-modified_ORB-SLAM3 with BRISK features (**KROS 2023**)  
+modified_ORB-SLAM3 with BRISK features (**KRoC 2023**)  
 [[code]](https://github.com/nsa05605/modified_ORB_SLAM3)
 [paper]  
 
@@ -22,11 +22,17 @@ Cross-view image sequence geo-localization using LLM (-ing)
     &rightarrow; This is a private repository due to KHNP(Korea Hydro & Nuclear Power Co., Ltd.)'s security policy.  
 [paper]  
 
+
 💻 **Deep Learning**  
 Shadow removal for visual place recognition (**ICCAS 2023**)  
 [[code]](https://github.com/nsa05605/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10316775?casa_token=NSahX8fBSjkAAAAA:2WPO7YB_IA4VJbGKRudbZuydId-X8gjnF31BuZGep52rfmLumkLv-AmJ8fbPjEDqWdM35S91_30)  
 
+
+⚔️ **Cross-Modal Place Recognition**
+Comparison of generative models for cross-modal place recognition (**KRoC 2024**)  
+[[code]]
+[paper]
 
 ### Mini Project  
 🚙 **Localization project**  
