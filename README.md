@@ -42,6 +42,5 @@ Visual-LiDAR fusion odometry using EKF
 
 
 ![nsa05605's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsa05605&theme=vue_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 </div>
