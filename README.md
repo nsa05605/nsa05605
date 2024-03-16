@@ -11,7 +11,7 @@
 
 
 **Radiation Mapping**
-- 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Revision in progress - **Advanced Intelligent Systems**)  
+- 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection (Accepted - **Advanced Intelligent Systems**)  
     &rightarrow; This is a private repository due to KHNP(Korea Hydro & Nuclear Power Co., Ltd.)'s security policy.
 
 **Deep Learning**
