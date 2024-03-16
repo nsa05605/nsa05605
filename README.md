@@ -18,7 +18,7 @@ Cross-view image sequence geo-localization using LLM (-ing)
 
 👷 **Radiation Mapping**  
 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection  
-(Accepted in March 2024 - **Advanced Intelligent Systems**)  
+(Accepted in March 2024 - **Advanced Intelligent Systems**(Impact Factor:7.4 on 2022))  
     &rightarrow; This is a private repository due to KHNP(Korea Hydro & Nuclear Power Co., Ltd.)'s security policy.  
 [paper]  
 
