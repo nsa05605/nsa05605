@@ -2,9 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=6FC7E1&text=%20Jihoon%20%20&height=150&fontSize=80&fontColor=ffffff)
 
-## Jihoon's github
 
-### Main Project
+# Main Project
 
 📷 **Visual SLAM**  
 modified_ORB-SLAM3 with BRISK features (**KRoC 2023**)  
@@ -36,7 +35,7 @@ Comparison of generative models for cross-modal place recognition (**KRoC 2024**
 [[code]](https://github.com/nsa05605/Compare_GANs_for_Cross-Modal_Place-Recognition)
 [paper]
 
-### Mini Project  
+# Mini Project  
 🚙 **Localization project**  
 Visual-LiDAR fusion odometry using EKF  
 [[code]](https://github.com/nsa05605/Visual-LiDAR-fusion_EKF-odometry)
