@@ -5,7 +5,7 @@
 ### Main Project
 
 📷 **Visual SLAM**  
-modified_ORB-SLAM3 with BRISK features (KROS 2023)  
+modified_ORB-SLAM3 with BRISK features (**KROS 2023**)  
 [[code]](https://github.com/nsa05605/modified_ORB_SLAM3)
 [paper]  
 
@@ -23,7 +23,7 @@ Cross-view image sequence geo-localization using LLM (-ing)
 [[paper]]  
 
 💻 **Deep Learning**  
-Shadow removal for visual place recognition (ICCAS 2023)  
+Shadow removal for visual place recognition (**ICCAS 2023**)  
 [[code]](https://github.com/nsa05605/DC-ShadowNet-Hard-and-Soft-Shadow-Removal)
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10316775?casa_token=NSahX8fBSjkAAAAA:2WPO7YB_IA4VJbGKRudbZuydId-X8gjnF31BuZGep52rfmLumkLv-AmJ8fbPjEDqWdM35S91_30)  
 
