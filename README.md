@@ -14,14 +14,14 @@ modified_ORB-SLAM3 with BRISK features (**KRoC 2023**)
 🏙️ **Visual Place Recognition**  
 Cross-view image sequence geo-localization using LLM (-ing)  
 [[code]](https://github.com/nsa05605/SL-CVGL)
-[paper]  
+[paper]
 
 
 👷 **Radiation Mapping**  
 3D Radiation Mapping using Gaussian Process Regression with Intensity Projection  
-(Accepted in March 2024 - **Advanced Intelligent Systems**(Impact Factor:7.4 on 2022))  
+(Published in April 2024 - **Advanced Intelligent Systems**(Impact Factor:7.4 on 2022))  
     &rightarrow; This is a private repository due to KHNP(Korea Hydro & Nuclear Power Co., Ltd.)'s security policy.  
-[paper]  
+[[paper]](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300820)
 
 
 💻 **Deep Learning**  
